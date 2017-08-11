@@ -1,15 +1,15 @@
 # Build and Release Folders
-bin/
+#bin/
 bin-debug/
 bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+#[Oo]bj/ # FlashDevelop obj
+#[Bb]in/ # FlashDevelop bin
 
 # Other files and folders
 .settings/
 
 # Executables
-*.swf
+#*.swf
 *.air
 *.ipa
 *.apk
